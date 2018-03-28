@@ -11,10 +11,10 @@
 ## 学习  
 
 **学习一**  
-| name     | score |
-| :------: | :---: |
-| xiaoan   | 80    |
-| xiaoming | 90    |
+| name     | score |  
+| :------: | :---: |  
+| xiaoan   | 80    |  
+| xiaoming | 90    |  
 
 
 **学习二**
